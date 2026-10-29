@@ -69,7 +69,7 @@ The pipeline is designed as a foundation for enterprise knowledge retrieval and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/FarazMemon004/Datheon_Forward_Deployed_Engineering_Internship.git
+git clone https://github.com/FarazMemon004/Datheon_Forward_Deployed_Engineering_Internship/tree/main/%20Datheon%20FDE%20%E2%80%94%20Task%201_Client%20Legacy%20Data%20Ingestion%20%26%20Vector%20ETL%20Pipeline
 cd Task 1-Client Legacy Data Ingestion & Vector ETL Pipeline
 ```
 
